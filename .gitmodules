@@ -1,4 +1,4 @@
 # Repo A: .gitmodules
 [submodule "math_operations"]
-    path = math_operations
-    url = https://github.com/sp2013/repoB.git
+	path = math_operations
+	url = https://github.com/sp2013/repoB.git
