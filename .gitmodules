@@ -1,0 +1,4 @@
+# Repo A: .gitmodules
+[submodule "math_operations"]
+    path = math_operations
+    url = <URL of Repo B>
