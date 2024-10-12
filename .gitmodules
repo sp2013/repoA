@@ -1,0 +1,3 @@
+[submodule "repoB"]
+	path = repoB
+	url = https://github.com/sp2013/repoB.git
